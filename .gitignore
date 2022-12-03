@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+data/images/raw/
+data/images/test/
+data/images/train/
+

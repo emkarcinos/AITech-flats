@@ -26,4 +26,4 @@ jobs:
           find . -name '*.py' -exec pylint {} \;
       - name: Run PyCodestyle for Jupyter Notebooks
         run: |
-          find . -name '*.ipynb' -exec pycodestyle {} \;
+          find . -name '*.ipynb' -exec pycodestyle --ignore=E501,E121,W292 {} \;

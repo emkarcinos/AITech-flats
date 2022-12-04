@@ -25,7 +25,7 @@ def _load_data(input_dir: str, new_size: int | None = None):
     folders = [directory for directory in image_dir.iterdir() if directory.is_dir()]
 
     train_img = []
-    categories_count = []
+    categories_count = len(folders)
     labels = []
     for directory in folders:
         count = 0
@@ -42,7 +42,6 @@ def _load_data(input_dir: str, new_size: int | None = None):
                 except ValueError:
                     # This can happen when a file is broken, so let's omit it.
                     print(f'Broken file: {obj}')
-        categories_count.append(count)
     return {
         "values": np.array(train_img),
         "categories_count": categories_count,
@@ -54,9 +53,9 @@ def _load_data(input_dir: str, new_size: int | None = None):
 class FlatsDataset(Dataset):
     def __init__(self, data, device):
         self.x = []
-        for d in data['values'][:, :, :, :-1]:
+        for d in data['values']:
             self.x.append(transforms.ToTensor()(d).to(device))
-        self.y = torch.BoolTensor(LabelEncoder().fit_transform(data['labels'])).to(device)
+        self.y = torch.LongTensor(LabelEncoder().fit_transform(data['labels'])).to(device)
 
     def __len__(self):
         return len(self.x)

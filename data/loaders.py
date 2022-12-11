@@ -51,10 +51,11 @@ def _load_data(input_dir: str, new_size: int | None = None):
 
 class FlatsDataset(Dataset):
     def __init__(self, data, device):
+        self.device = device
         self.x = []
         for d in data['values']:
-            self.x.append(transforms.ToTensor()(d).to(device))
-        self.y = torch.LongTensor(LabelEncoder().fit_transform(data['labels'])).to(device)
+            self.x.append(transforms.ToTensor()(d))
+        self.y = torch.LongTensor(LabelEncoder().fit_transform(data['labels']))
 
     def __len__(self):
         return len(self.x)

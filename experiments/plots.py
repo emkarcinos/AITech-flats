@@ -3,11 +3,13 @@ from datetime import timedelta
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from metrics import Metrics
+
 
 def plot_metrics(
         title: str,
-        test_metrics: dict,
-        train_metrics: dict,
+        test_metrics: Metrics,
+        train_metrics: Metrics,
         n_epochs: int,
         time: int,
         image_size: int,
@@ -39,25 +41,25 @@ def plot_metrics(
                                     ['a', 'p'],
                                     ['r', 'f']],
                                    constrained_layout=True, figsize=(10, 10))
-    axis['l'].plot(test_metrics['loss'])
-    axis['l'].plot(train_metrics['loss'])
+    axis['l'].plot(test_metrics.loss)
+    axis['l'].plot(train_metrics.loss)
     axis['l'].set_yscale('log')
     axis['l'].set_title("Loss")
 
-    axis['a'].plot(test_metrics['acc'])
-    axis['a'].plot(train_metrics['acc'])
+    axis['a'].plot(test_metrics.accuracy)
+    axis['a'].plot(train_metrics.accuracy)
     axis['a'].set_title("Accuracy")
 
-    axis['p'].plot(test_metrics['precision'])
-    axis['p'].plot(train_metrics['precision'])
+    axis['p'].plot(test_metrics.precision)
+    axis['p'].plot(train_metrics.precision)
     axis['p'].set_title("Precision")
 
-    axis['r'].plot(test_metrics['recall'])
-    axis['r'].plot(train_metrics['recall'])
+    axis['r'].plot(test_metrics.recall)
+    axis['r'].plot(train_metrics.recall)
     axis['r'].set_title("Recall")
 
-    axis['f'].plot(test_metrics['f'])
-    axis['f'].plot(train_metrics['f'])
+    axis['f'].plot(test_metrics.f_score)
+    axis['f'].plot(train_metrics.f_score)
     axis['f'].set_title("F-score")
     fig.tight_layout()
     fig.subplots_adjust(top=0.90, bottom=0.05)

@@ -1,0 +1,145 @@
+2022-11-28 01:26:10.470 +01:00 [INF] Searching started...
+2022-11-28 01:26:10.555 +01:00 [INF] Starting scrapping style: ArtDeco...
+2022-11-28 01:26:10.560 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20...
+2022-11-28 01:26:10.596 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:26:10.608 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:26:11.786 +01:00 [INF] Received HTTP response headers after 1169.6078ms - 200
+2022-11-28 01:26:11.800 +01:00 [INF] End processing HTTP request after 1224.2212ms - 200
+2022-11-28 01:26:12.364 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:26:12.753 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/48413ed706e23b39_9878-1-dc4e61e-w720-h720.jpg
+2022-11-28 01:26:12.945 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/cc716d4406f096a9_8722-1-d989c6e-w720-h720.jpg
+2022-11-28 01:26:13.131 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/57b13d260aa67875_5397-1-92417d0-w720-h720.jpg
+2022-11-28 01:26:13.322 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8f81340e0d768491_6997-1-07f5044-w720-h720.jpg
+2022-11-28 01:26:13.327 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:13.551 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/86c162dc05172bd1_0431-1-5e537c7-w720-h720.jpg
+2022-11-28 01:26:13.738 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/1fa1287508e4c2f3_9084-1-11b2e21-w720-h720.jpg
+2022-11-28 01:26:14.112 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/be1195a90a2def2d_3786-1-6d00c28-w720-h720.jpg
+2022-11-28 01:26:14.299 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/e991a68301f7e852_6991-1-0b9d3f8-w720-h720.jpg
+2022-11-28 01:26:14.330 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/e191d2c300245cb9_6780-1-324d19c-w720-h720.jpg
+2022-11-28 01:26:14.513 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/3b11168a0cfb8dc5_6736-1-c55c99a-w720-h720.jpg
+2022-11-28 01:26:14.696 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/3211df010846abb4_6723-1-b0a719d-w720-h720.jpg
+2022-11-28 01:26:14.882 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/83519f7f0d5d8bba_7991-1-9fc7a3b-w720-h720.jpg
+2022-11-28 01:26:28.136 +01:00 [INF] Searching started...
+2022-11-28 01:26:28.210 +01:00 [INF] Starting scrapping style: ArtDeco...
+2022-11-28 01:26:28.214 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20...
+2022-11-28 01:26:28.242 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:26:28.251 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:26:29.611 +01:00 [INF] Received HTTP response headers after 1351.6808ms - 200
+2022-11-28 01:26:29.625 +01:00 [INF] End processing HTTP request after 1399.127ms - 200
+2022-11-28 01:26:30.027 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:26:30.045 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/48413ed706e23b39_9878-1-dc4e61e-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.046 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/cc716d4406f096a9_8722-1-d989c6e-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.046 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/57b13d260aa67875_5397-1-92417d0-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.046 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8f81340e0d768491_6997-1-07f5044-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.047 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:30.047 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/86c162dc05172bd1_0431-1-5e537c7-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.047 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/1fa1287508e4c2f3_9084-1-11b2e21-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.047 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/be1195a90a2def2d_3786-1-6d00c28-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.048 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/e991a68301f7e852_6991-1-0b9d3f8-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.048 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/e191d2c300245cb9_6780-1-324d19c-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.048 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/3b11168a0cfb8dc5_6736-1-c55c99a-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.048 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/3211df010846abb4_6723-1-b0a719d-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.048 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/83519f7f0d5d8bba_7991-1-9fc7a3b-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.048 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/a041584a0d5ee4f5_8004-1-0fc22dd-w720-h720.jpg because it already exists
+2022-11-28 01:26:30.581 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/f9e1561102dc1909_2131-1-33b3ee3-w720-h720.jpg
+2022-11-28 01:26:30.797 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/f8b13745070d7215_7850-1-c494fbd-w720-h720.jpg
+2022-11-28 01:26:30.990 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/b261e3c00b731f6f_5026-1-0aa6fc9-w720-h720.jpg
+2022-11-28 01:26:31.025 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/183101b903f36427_3571-1-d351c1b-w720-h720.jpg
+2022-11-28 01:26:31.058 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/c27100ea0b7325da_8085-1-3a79f93-w720-h720.jpg
+2022-11-28 01:26:31.349 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/0e81ca8801ea7f18_7050-1-115fec8-w720-h720.jpg
+2022-11-28 01:26:31.350 +01:00 [INF] Downloaded: 6 images
+2022-11-28 01:26:31.350 +01:00 [INF] Finished scrapping style: ArtDeco at page: 1
+2022-11-28 01:26:31.351 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40...
+2022-11-28 01:26:31.352 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40
+2022-11-28 01:26:31.353 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40
+2022-11-28 01:26:32.044 +01:00 [INF] Received HTTP response headers after 689.8844ms - 200
+2022-11-28 01:26:32.048 +01:00 [INF] End processing HTTP request after 696.3924ms - 200
+2022-11-28 01:26:32.549 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40
+2022-11-28 01:26:32.734 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/41f13ab80d851627_6848-1-0599bcb-w720-h720.jpg
+2022-11-28 01:26:32.930 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/bd210a950e55836c_7880-1-a6da2af-w720-h720.jpg
+2022-11-28 01:26:33.130 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/096184660f042ebd_2827-1-2053bf0-w720-h720.jpg
+2022-11-28 01:26:33.316 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8a9123c10ac72a16_1219-1-2a631e8-w720-h720.jpg
+2022-11-28 01:26:33.504 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/98f1de7b00b53a5d_1528-1-6183732-w720-h720.jpg
+2022-11-28 01:26:33.866 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/5831ba4e037860d9_6518-1-d03c8e3-w720-h720.jpg
+2022-11-28 01:26:34.055 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/29618b060defa4e7_6426-1-5c7fb83-w720-h720.jpg
+2022-11-28 01:26:34.259 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/6e61ba64008a9940_3276-1-493b076-w720-h720.jpg
+2022-11-28 01:26:34.260 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:34.260 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:34.447 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/ef81c30c0f9af109_9840-1-7b39172-w720-h720.jpg
+2022-11-28 01:26:34.448 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:34.639 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/4cb1d7c50392dd2f_4269-1-2cb5162-w720-h720.jpg
+2022-11-28 01:26:34.826 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/cea185c30f042f08_2827-1-f3e8d16-w720-h720.jpg
+2022-11-28 01:26:34.827 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:35.012 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/f301bb230283d5d8_6100-1-0e54192-w720-h720.jpg
+2022-11-28 01:26:35.221 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/9e31a33500a96c4c_8934-1-7d3608a-w720-h720.jpg
+2022-11-28 01:26:35.406 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8351df550e55847d_7880-1-0c3e49b-w720-h720.jpg
+2022-11-28 01:26:35.594 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/07913bc6071a746d_4110-1-e03a469-w720-h720.jpg
+2022-11-28 01:26:35.940 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/6ff1e5650f042e31_2827-1-c219f27-w720-h720.jpg
+2022-11-28 01:26:35.941 +01:00 [INF] Downloaded: 16 images
+2022-11-28 01:26:35.942 +01:00 [INF] Finished scrapping style: ArtDeco at page: 2
+2022-11-28 01:26:35.942 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/60...
+2022-11-28 01:26:35.944 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/60
+2022-11-28 01:26:35.945 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/60
+2022-11-28 01:26:36.683 +01:00 [INF] Received HTTP response headers after 737.1305ms - 200
+2022-11-28 01:26:36.684 +01:00 [INF] End processing HTTP request after 740.7033ms - 200
+2022-11-28 01:26:37.594 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/60
+2022-11-28 01:26:37.792 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/d9b12dda036a1c08_7735-1-9c64e1c-w720-h720.jpg
+2022-11-28 01:26:37.982 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/19519a1c019be66a_7543-1-b2b20fe-w720-h720.jpg
+2022-11-28 01:26:38.179 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/c8e140d70b91763f_0390-1-a364f08-w720-h720.jpg
+2022-11-28 01:26:38.179 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:38.180 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:38.363 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/d951b58702df1018_5591-1-fdaf02a-w720-h720.jpg
+2022-11-28 01:26:38.396 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/bfa1829c0be06cfa_6087-1-a1c3aa8-w720-h720.jpg
+2022-11-28 01:26:38.579 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/5dc165f000a96c7a_8191-1-c0acfec-w720-h720.jpg
+2022-11-28 01:26:38.775 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/72017a4f01effa2f_8702-1-b4a09a3-w720-h720.jpg
+2022-11-28 01:26:38.965 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/6dd1eeda0007837f_1014-1-788c684-w720-h720.jpg
+2022-11-28 01:26:39.154 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/f98160c208b99fb7_9692-1-989612a-w720-h720.jpg
+2022-11-28 01:26:39.504 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/c8a182cb0db5cb74_3617-1-971cc01-w720-h720.jpg
+2022-11-28 01:26:39.688 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/4121662a0cfb8dbf_6736-1-b2815aa-w720-h720.jpg
+2022-11-28 01:26:40.063 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/d69150990f3a60cc_0722-1-c8824ae-w720-h720.jpg
+2022-11-28 01:26:40.254 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/89f185e50f3a60c5_0722-1-645f761-w720-h720.jpg
+2022-11-28 01:26:40.933 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/47a119780f3a60c2_0722-1-4c0b423-w720-h720.jpg
+2022-11-28 01:26:41.206 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/17b1bccb0f3a60c7_0722-1-965745f-w720-h720.jpg
+2022-11-28 01:26:41.419 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/79c178640b9a4dd7_0362-1-addafb4-w720-h720.jpg
+2022-11-28 01:26:41.468 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/da41c1a80245b403_6538-1-93f2deb-w720-h720.jpg
+2022-11-28 01:26:41.661 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/1a917ab5036e92ef_4497-1-02a3636-w720-h720.jpg
+2022-11-28 01:26:41.661 +01:00 [INF] Downloaded: 18 images
+2022-11-28 01:26:41.662 +01:00 [INF] Finished scrapping style: ArtDeco at page: 3
+2022-11-28 01:26:41.662 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/80...
+2022-11-28 01:26:41.665 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/80
+2022-11-28 01:26:41.666 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/80
+2022-11-28 01:26:42.318 +01:00 [INF] Received HTTP response headers after 651.6675ms - 200
+2022-11-28 01:26:42.321 +01:00 [INF] End processing HTTP request after 657.0282ms - 200
+2022-11-28 01:26:42.506 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/80
+2022-11-28 01:26:42.878 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/a4019004045825b6_4723-1-d994f02-w720-h720.jpg
+2022-11-28 01:26:43.070 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/2e61c6e2005085bd_9332-w720-h720.jpg
+2022-11-28 01:26:43.260 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/9311c78e005085c2_9332-w720-h720.jpg
+2022-11-28 01:26:43.446 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/642185a2005085c8_3282-w720-h720.jpg
+2022-11-28 01:26:43.637 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/adb1b194005085d2_9333-w720-h720.jpg
+2022-11-28 01:26:43.821 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/69e18d85005085cd_9333-w720-h720.jpg
+2022-11-28 01:26:44.019 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/b901b825061bbbc9_8596-1-bb4c19a-w720-h720.jpg
+2022-11-28 01:26:44.056 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/4121580e0a5f8bce_3317-1-173d117-w720-h720.jpg
+2022-11-28 01:26:44.092 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/bf01c47b03c86792_1198-1-17ce6bd-w720-h720.jpg
+2022-11-28 01:26:44.683 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/c671e6f50106ea4a_8454-1-9d9d3e5-w720-h720.jpg
+2022-11-28 01:26:44.875 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/7971492d008a990b_3276-1-42a2954-w720-h720.jpg
+2022-11-28 01:26:45.063 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/67c14cd5034d2170_9851-1-2ad6b71-w720-h720.jpg
+2022-11-28 01:26:45.259 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/fb2146a90422eb1a_8596-1-008464e-w720-h720.jpg
+2022-11-28 01:26:45.460 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/c921191200178fef_0840-1-7de02ff-w720-h720.jpg
+2022-11-28 01:26:45.841 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8de1488400031d0f_7682-1-9cdcee6-w720-h720.jpg
+2022-11-28 01:26:45.841 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:46.035 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/026126510bf570a7_9628-1-3f08873-w720-h720.jpg
+2022-11-28 01:26:46.232 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/6f91bf420ecd453c_3300-1-4014a56-w720-h720.jpg
+2022-11-28 01:26:46.279 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/560158e1021fb6af_4420-w720-h720.jpg
+2022-11-28 01:26:46.709 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/ebf136c9021fb6c3_4421-w720-h720.jpg
+2022-11-28 01:26:46.709 +01:00 [INF] Downloaded: 19 images
+2022-11-28 01:26:46.710 +01:00 [INF] Finished scrapping style: ArtDeco at page: 4
+2022-11-28 01:26:46.710 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/100...
+2022-11-28 01:26:46.712 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/100
+2022-11-28 01:26:46.714 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/100
+2022-11-28 01:26:47.441 +01:00 [INF] Received HTTP response headers after 726.3995ms - 200
+2022-11-28 01:26:47.443 +01:00 [INF] End processing HTTP request after 732.3347ms - 200
+2022-11-28 01:26:47.810 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/100
+2022-11-28 01:26:47.811 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:26:48.278 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/7ea1c798021fb6b1_4420-w720-h720.jpg
+2022-11-28 01:26:48.705 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/0601a17e021fb6d3_4421-w720-h720.jpg
+2022-11-28 01:26:48.909 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/6f91b009021fb6b3_4421-w720-h720.jpg

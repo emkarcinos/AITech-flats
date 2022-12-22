@@ -1,0 +1,516 @@
+2022-11-28 01:28:03.372 +01:00 [INF] Searching started...
+2022-11-28 01:28:03.457 +01:00 [INF] Starting scrapping style: ArtDeco...
+2022-11-28 01:28:03.462 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20...
+2022-11-28 01:28:03.496 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:28:03.506 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:28:04.735 +01:00 [INF] Received HTTP response headers after 1220.5541ms - 200
+2022-11-28 01:28:04.748 +01:00 [INF] End processing HTTP request after 1270.8903ms - 200
+2022-11-28 01:28:05.586 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/20
+2022-11-28 01:28:05.606 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/48413ed706e23b39_9878-1-dc4e61e-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.606 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/cc716d4406f096a9_8722-1-d989c6e-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.606 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/57b13d260aa67875_5397-1-92417d0-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.606 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8f81340e0d768491_6997-1-07f5044-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.607 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:28:05.607 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/86c162dc05172bd1_0431-1-5e537c7-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.607 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/1fa1287508e4c2f3_9084-1-11b2e21-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.607 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/be1195a90a2def2d_3786-1-6d00c28-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/e991a68301f7e852_6991-1-0b9d3f8-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/e191d2c300245cb9_6780-1-324d19c-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/3b11168a0cfb8dc5_6736-1-c55c99a-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/3211df010846abb4_6723-1-b0a719d-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/83519f7f0d5d8bba_7991-1-9fc7a3b-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/a041584a0d5ee4f5_8004-1-0fc22dd-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/f9e1561102dc1909_2131-1-33b3ee3-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/f8b13745070d7215_7850-1-c494fbd-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/b261e3c00b731f6f_5026-1-0aa6fc9-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/183101b903f36427_3571-1-d351c1b-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.608 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/c27100ea0b7325da_8085-1-3a79f93-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.609 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/0e81ca8801ea7f18_7050-1-115fec8-w720-h720.jpg because it already exists
+2022-11-28 01:28:05.609 +01:00 [INF] Downloaded: 0 images
+2022-11-28 01:28:05.609 +01:00 [INF] Finished scrapping style: ArtDeco at page: 1
+2022-11-28 01:28:05.609 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40...
+2022-11-28 01:28:05.611 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40
+2022-11-28 01:28:05.611 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40
+2022-11-28 01:28:06.399 +01:00 [INF] Received HTTP response headers after 786.5257ms - 200
+2022-11-28 01:28:06.408 +01:00 [INF] End processing HTTP request after 797.76ms - 200
+2022-11-28 01:28:06.602 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/art-deco-living-room/nqrwns/p/40
+2022-11-28 01:28:06.603 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/41f13ab80d851627_6848-1-0599bcb-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.603 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/bd210a950e55836c_7880-1-a6da2af-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.603 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/096184660f042ebd_2827-1-2053bf0-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.603 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8a9123c10ac72a16_1219-1-2a631e8-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.603 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/98f1de7b00b53a5d_1528-1-6183732-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.603 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/5831ba4e037860d9_6518-1-d03c8e3-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/29618b060defa4e7_6426-1-5c7fb83-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/6e61ba64008a9940_3276-1-493b076-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/ef81c30c0f9af109_9840-1-7b39172-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/4cb1d7c50392dd2f_4269-1-2cb5162-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/cea185c30f042f08_2827-1-f3e8d16-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/f301bb230283d5d8_6100-1-0e54192-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/9e31a33500a96c4c_8934-1-7d3608a-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/8351df550e55847d_7880-1-0c3e49b-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/07913bc6071a746d_4110-1-e03a469-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/ArtDeco/6ff1e5650f042e31_2827-1-c219f27-w720-h720.jpg because it already exists
+2022-11-28 01:28:06.604 +01:00 [INF] Downloaded: 0 images
+2022-11-28 01:28:06.604 +01:00 [INF] Finished scrapping style: ArtDeco at page: 2
+2022-11-28 01:28:06.605 +01:00 [INF] Starting scrapping style: Classic...
+2022-11-28 01:28:06.605 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=1...
+2022-11-28 01:28:06.605 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=1
+2022-11-28 01:28:06.606 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=1
+2022-11-28 01:28:07.525 +01:00 [INF] Received HTTP response headers after 917.7789ms - 200
+2022-11-28 01:28:07.531 +01:00 [INF] End processing HTTP request after 925.3935ms - 200
+2022-11-28 01:28:08.653 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=1
+2022-11-28 01:28:08.859 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/b211ed9303dfe87e_3747-1-8da199b-w720-h720.jpg
+2022-11-28 01:28:09.062 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/20f121f60384b961_5914-1-0cf1133-w720-h720.jpg
+2022-11-28 01:28:09.422 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/82d1fba7002e93f6_0426-1-2b735e8-w720-h720.jpg
+2022-11-28 01:28:09.479 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/857135f2062bf0a9_1443-1-bb01993-w720-h720.jpg
+2022-11-28 01:28:09.664 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/ef2184a50536858b_9954-1-a09d5bb-w720-h720.jpg
+2022-11-28 01:28:09.870 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/dec1e6750936e73c_6206-1-b6ed361-w720-h720.jpg
+2022-11-28 01:28:10.068 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/3351d757071b6864_9425-1-4021fde-w720-h720.jpg
+2022-11-28 01:28:10.255 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/57a134b60e1f3017_8761-1-324c032-w720-h720.jpg
+2022-11-28 01:28:10.296 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/e68124f303a85dff_3500-1-7411697-w720-h720.jpg
+2022-11-28 01:28:10.333 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/3af13a600d4f4b81_3891-1-25e1277-w720-h720.jpg
+2022-11-28 01:28:10.522 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/cc714181016ed807_9142-1-2849434-w720-h720.jpg
+2022-11-28 01:28:10.721 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/636173280e94f49b_7295-1-b91f15d-w720-h720.jpg
+2022-11-28 01:28:10.927 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/f7a1f03d01420e60_8120-1-366bd8b-w720-h720.jpg
+2022-11-28 01:28:10.996 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/a9d1490b018a6bdd_7759-1-aefc1b2-w720-h720.jpg
+2022-11-28 01:28:11.030 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/ca116e4b0ebb1012_3137-1-dd82993-w720-h720.jpg
+2022-11-28 01:28:11.234 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/7dc1e9a0008449e8_9274-1-2050b5d-w720-h720.jpg
+2022-11-28 01:28:11.429 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/3b51e3430f6cc8a7_2345-1-330efa8-w720-h720.jpg
+2022-11-28 01:28:11.770 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/de4195010e272f91_3456-1-e6951ab-w720-h720.jpg
+2022-11-28 01:28:11.964 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/0cd1e6c40e947b72_7303-1-eb4d7eb-w720-h720.jpg
+2022-11-28 01:28:12.001 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/15a1fcb600ddbbe8_8710-1-04c4826-w720-h720.jpg
+2022-11-28 01:28:12.002 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:28:12.002 +01:00 [INF] Finished scrapping style: Classic at page: 1
+2022-11-28 01:28:12.002 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=2...
+2022-11-28 01:28:12.004 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=2
+2022-11-28 01:28:12.004 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=2
+2022-11-28 01:28:12.833 +01:00 [INF] Received HTTP response headers after 828.0247ms - 200
+2022-11-28 01:28:12.834 +01:00 [INF] End processing HTTP request after 830.974ms - 200
+2022-11-28 01:28:13.844 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/traditional-living-room-ideas-phbr1-bp~t_718~s_2107?pg=2
+2022-11-28 01:28:13.883 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/f5b136f70351741c_9395-1-a767768-w720-h720.jpg
+2022-11-28 01:28:14.075 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/b8d13b6f0e458b83_8174-1-5fdc691-w720-h720.jpg
+2022-11-28 01:28:14.338 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/2ce1bc7e0e874dea_3858-1-0cd3840-w720-h720.jpg
+2022-11-28 01:28:14.524 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/4bc12c1a0e8e36ec_7307-1-eb239cc-w720-h720.jpg
+2022-11-28 01:28:14.560 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/8ae1bf7700d76ed8_8722-1-3e2d333-w720-h720.jpg
+2022-11-28 01:28:14.743 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/c2213a0c0ea711a2_3590-1-8a246b0-w720-h720.jpg
+2022-11-28 01:28:14.929 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/c311b4bd0d54024f_3896-1-922a561-w720-h720.jpg
+2022-11-28 01:28:15.298 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/21c1ec600e8d025d_1570-1-08f9a0d-w720-h720.jpg
+2022-11-28 01:28:15.491 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/2da1d8910f5b8a97_1239-1-e9b3514-w720-h720.jpg
+2022-11-28 01:28:15.846 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/b4f11ed600ffcd6f_8098-1-7474e2e-w720-h720.jpg
+2022-11-28 01:28:16.065 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/8371184400c265ba_8814-1-182e3e8-w720-h720.jpg
+2022-11-28 01:28:16.102 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/29b10eb70ec4d040_6529-1-c4d8ffa-w720-h720.jpg
+2022-11-28 01:28:16.135 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/6d211c2a0d2661eb_8138-1-5de085a-w720-h720.jpg
+2022-11-28 01:28:16.169 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/4151454b012ca20a_4310-1-48436d7-w720-h720.jpg
+2022-11-28 01:28:16.730 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/65813eeb09c17652_2024-1-825a15f-w720-h720.jpg
+2022-11-28 01:28:16.923 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/f7f11eab00213ffe_6846-1-a4f3af8-w720-h720.jpg
+2022-11-28 01:28:17.108 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/4a61b335027b6ac3_6229-1-fad3075-w720-h720.jpg
+2022-11-28 01:28:17.292 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/56f115da0fcfbb28_1660-1-b94a60a-w720-h720.jpg
+2022-11-28 01:28:17.478 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/c5b151780db05dc1_3613-1-e477395-w720-h720.jpg
+2022-11-28 01:28:17.666 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Classic/bec1e648008afa8a_9219-1-7cfb356-w720-h720.jpg
+2022-11-28 01:28:17.666 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:28:17.666 +01:00 [INF] Finished scrapping style: Classic at page: 2
+2022-11-28 01:28:17.667 +01:00 [INF] Starting scrapping style: Glamour...
+2022-11-28 01:28:17.667 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/20...
+2022-11-28 01:28:17.670 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/20
+2022-11-28 01:28:17.672 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/20
+2022-11-28 01:28:18.561 +01:00 [INF] Received HTTP response headers after 887.2805ms - 200
+2022-11-28 01:28:18.564 +01:00 [INF] End processing HTTP request after 894.9713ms - 200
+2022-11-28 01:28:19.063 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/20
+2022-11-28 01:28:19.259 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/b1e14cb00fcfde22_1661-1-fb82236-w720-h720.jpg
+2022-11-28 01:28:19.450 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/5aa1a357064c9ef6_3194-1-5ebc06b-w720-h720.jpg
+2022-11-28 01:28:19.912 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/3dd1054a059ec2dc_4033-1-8c9c577-w720-h720.jpg
+2022-11-28 01:28:20.517 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/af41585e04481156_7279-1-436b3d2-w720-h720.jpg
+2022-11-28 01:28:20.711 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/2c91c1870c0e7d8b_9385-1-e1e8abd-w720-h720.jpg
+2022-11-28 01:28:20.914 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/77d1b6e80ece1eef_3300-1-0d3659d-w720-h720.jpg
+2022-11-28 01:28:21.358 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/8e81de05063a5b11_3498-1-6f7f24e-w720-h720.jpg
+2022-11-28 01:28:21.542 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/0a91d2ce09c19fe5_2006-1-af43816-w720-h720.jpg
+2022-11-28 01:28:21.734 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/bb812f990608f08e_8326-1-0121ae6-w720-h720.jpg
+2022-11-28 01:28:21.921 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/5271b6d409c19f59_2006-1-a291768-w720-h720.jpg
+2022-11-28 01:28:22.548 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/c9c178c105a95db2_9290-1-c5a7b8d-w720-h720.jpg
+2022-11-28 01:28:22.738 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/c021230807865293_8530-1-268492c-w720-h720.jpg
+2022-11-28 01:28:23.361 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/cc5170e904147403_5375-1-4360c8e-w720-h720.jpg
+2022-11-28 01:28:24.050 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/84f191d10996eb0d_3480-1-76dcf31-w720-h720.jpg
+2022-11-28 01:28:24.443 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/f3f13a66063a5b0d_3497-1-30af3f7-w720-h720.jpg
+2022-11-28 01:28:24.724 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/9e314a16063a5af7_3498-1-db0db7d-w720-h720.jpg
+2022-11-28 01:28:24.952 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/cff111e003f934b4_7658-1-cda2dfe-w720-h720.jpg
+2022-11-28 01:28:25.198 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/3221d25c08bdd78f_6473-1-c2c03f2-w720-h720.jpg
+2022-11-28 01:28:27.986 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/1061e5fd0a82760b_1813-1-ef6558d-w720-h720.jpg
+2022-11-28 01:28:28.435 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/7141f67a0fc27340_1777-1-867c28f-w720-h720.jpg
+2022-11-28 01:28:28.435 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:28:28.436 +01:00 [INF] Finished scrapping style: Glamour at page: 1
+2022-11-28 01:28:28.436 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/40...
+2022-11-28 01:28:28.437 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/40
+2022-11-28 01:28:28.438 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/40
+2022-11-28 01:28:29.097 +01:00 [INF] Received HTTP response headers after 658.0038ms - 200
+2022-11-28 01:28:29.098 +01:00 [INF] End processing HTTP request after 661.2999ms - 200
+2022-11-28 01:28:29.398 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/glamour-living-room/nqrwns/p/40
+2022-11-28 01:28:29.682 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/0a81abf008a78e56_5719-1-1d1ff9a-w720-h720.jpg
+2022-11-28 01:28:30.128 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/e1b105e3052c34e6_0148-1-3f4ecc8-w720-h720.jpg
+2022-11-28 01:28:30.343 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/730131bb033ba914_1219-1-a2dab9f-w720-h720.jpg
+2022-11-28 01:28:30.558 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/07f1d9b50733aaf7_7655-1-e4617fd-w720-h720.jpg
+2022-11-28 01:28:30.778 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/23318a8e08c310c0_9655-1-65122d0-w720-h720.jpg
+2022-11-28 01:28:31.011 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/beb11f9e0f591907_1270-1-1c5fcf7-w720-h720.jpg
+2022-11-28 01:28:31.677 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/5f11ca1103f934a5_7658-1-798bbec-w720-h720.jpg
+2022-11-28 01:28:32.191 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/faa102370286a164_1744-1-60aab47-w720-h720.jpg
+2022-11-28 01:28:32.522 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/2d51ab1509fb6368_5740-1-5216c06-w720-h720.jpg
+2022-11-28 01:28:32.954 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/48f1f0060890bed7_6031-1-e2a205c-w720-h720.jpg
+2022-11-28 01:28:33.360 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/294197bb0608efbc_8326-1-7faed3d-w720-h720.jpg
+2022-11-28 01:28:33.577 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/3d210e2e03fbfee2_7503-1-c18e5d5-w720-h720.jpg
+2022-11-28 01:28:33.946 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/de71bf560d6f93c8_7028-1-7411672-w720-h720.jpg
+2022-11-28 01:28:34.155 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/45817fe4075e9083_6561-1-3e05cdf-w720-h720.jpg
+2022-11-28 01:28:34.984 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/b61101a00304eb28_5511-1-b82d16a-w720-h720.jpg
+2022-11-28 01:28:35.183 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/df01130803fdf256_7229-1-0957c99-w720-h720.jpg
+2022-11-28 01:28:35.232 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/23710a3c0756b1ef_7439-1-d40b7fa-w720-h720.jpg
+2022-11-28 01:28:35.678 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/23d146ba079bb1a7_5065-1-5c777e5-w720-h720.jpg
+2022-11-28 01:28:35.872 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/82a1f5e408bdd854_6473-1-1ffb9d7-w720-h720.jpg
+2022-11-28 01:28:36.082 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Glamour/a05107ac086fdfbc_0969-1-f12fe16-w720-h720.jpg
+2022-11-28 01:28:36.082 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:28:36.082 +01:00 [INF] Finished scrapping style: Glamour at page: 2
+2022-11-28 01:28:36.082 +01:00 [INF] Starting scrapping style: Industrial...
+2022-11-28 01:28:36.083 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=1...
+2022-11-28 01:28:36.083 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=1
+2022-11-28 01:28:36.084 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=1
+2022-11-28 01:28:36.924 +01:00 [INF] Received HTTP response headers after 839.5892ms - 200
+2022-11-28 01:28:36.925 +01:00 [INF] End processing HTTP request after 841.748ms - 200
+2022-11-28 01:28:37.581 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=1
+2022-11-28 01:28:37.787 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/3931aa230e399277_6295-1-76b0fb7-w720-h720.jpg
+2022-11-28 01:28:37.996 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/cb012e6106699d72_8558-1-3910822-w720-h720.jpg
+2022-11-28 01:28:38.054 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/57c192ba0cc9fd8b_7228-1-480e3d2-w720-h720.jpg
+2022-11-28 01:28:38.437 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/b6c1b4e009ff81cc_6692-1-5dea215-w720-h720.jpg
+2022-11-28 01:28:38.792 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/279113570d1f1bd9_8150-1-cb93273-w720-h720.jpg
+2022-11-28 01:28:38.844 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/7401d22c03ea2c28_3657-1-89eae66-w720-h720.jpg
+2022-11-28 01:28:39.038 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/265101760a1ec444_4300-1-abff20e-w720-h720.jpg
+2022-11-28 01:28:39.417 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/f77164390fba94ed_1896-1-32f8fb3-w720-h720.jpg
+2022-11-28 01:28:39.626 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/dfc11ee00418abf8_3259-1-58802d1-w720-h720.jpg
+2022-11-28 01:28:39.834 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/d7115e2a0898c921_5950-1-645cf40-w720-h720.jpg
+2022-11-28 01:28:40.054 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/3b21fb3507740435_8606-1-006f990-w720-h720.jpg
+2022-11-28 01:28:40.249 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/97a1ff73027e7bb4_2646-1-72dd4ee-w720-h720.jpg
+2022-11-28 01:28:40.588 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/36b17f0f01e98292_7169-1-bc95811-w720-h720.jpg
+2022-11-28 01:28:40.827 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/59f12b9d04231ed9_8414-1-ec97241-w720-h720.jpg
+2022-11-28 01:28:41.512 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/6d31500707dfde0c_7098-1-99aa6e6-w720-h720.jpg
+2022-11-28 01:28:41.706 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/b8016d650ba38ac9_7046-1-5d54801-w720-h720.jpg
+2022-11-28 01:28:42.126 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/c5216a180db707cc_6609-1-d836b6e-w720-h720.jpg
+2022-11-28 01:28:42.385 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/629130820b3b7e83_1047-1-81aecfd-w720-h720.jpg
+2022-11-28 01:28:42.732 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/a011be190c7be954_8139-1-c932285-w720-h720.jpg
+2022-11-28 01:28:42.948 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/4831edf90570c90c_6680-1-26837b8-w720-h720.jpg
+2022-11-28 01:28:42.948 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:28:42.949 +01:00 [INF] Finished scrapping style: Industrial at page: 1
+2022-11-28 01:28:42.949 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=2...
+2022-11-28 01:28:42.951 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=2
+2022-11-28 01:28:42.952 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=2
+2022-11-28 01:28:43.779 +01:00 [INF] Received HTTP response headers after 826.5849ms - 200
+2022-11-28 01:28:43.779 +01:00 [INF] End processing HTTP request after 828.9617ms - 200
+2022-11-28 01:28:45.095 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/industrial-living-room-ideas-phbr1-bp~t_718~s_2113?pg=2
+2022-11-28 01:28:45.301 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/1d715f4b0be1f6e6_4915-1-cef84bb-w720-h720.jpg
+2022-11-28 01:28:45.782 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/c78134c40cd18244_7204-1-a4cecf3-w720-h720.jpg
+2022-11-28 01:28:45.987 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/6a71168d05020395_4965-1-4c53519-w720-h720.jpg
+2022-11-28 01:28:46.193 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/f67197360a675c72_3154-1-950e6cb-w720-h720.jpg
+2022-11-28 01:28:46.445 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/c631d3050ca43838_8771-1-1c4cd51-w720-h720.jpg
+2022-11-28 01:28:46.650 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/5511231303c41677_3868-1-a391656-w720-h720.jpg
+2022-11-28 01:28:47.057 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/52817c200415c015_5254-1-5376ffe-w720-h720.jpg
+2022-11-28 01:28:47.307 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/0af11db600f70d18_8633-1-bf1376b-w720-h720.jpg
+2022-11-28 01:28:47.498 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/1781164d0a472c77_5553-1-7f04452-w720-h720.jpg
+2022-11-28 01:28:48.063 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/0651db9f05a942b8_9287-1-06b0765-w720-h720.jpg
+2022-11-28 01:28:48.260 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/96511bf0006f1326_9579-1-68fcce4-w720-h720.jpg
+2022-11-28 01:28:48.467 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/eab1b9f300f9960d_8601-1-f420f18-w720-h720.jpg
+2022-11-28 01:28:48.666 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/c901ec5e0c857016_8041-1-2da9299-w720-h720.jpg
+2022-11-28 01:28:49.080 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/0571c72f05d35524_2334-1-8ed5e25-w720-h720.jpg
+2022-11-28 01:28:49.613 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/3121add807d82655_7846-1-81481f9-w720-h720.jpg
+2022-11-28 01:28:50.002 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/.jpg
+2022-11-28 01:28:50.499 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/d37177de09d65f79_2963-1-e517096-w720-h720.jpg
+2022-11-28 01:28:50.895 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/73011332055a1acf_9641-1-105d75d-w720-h720.jpg
+2022-11-28 01:28:51.092 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/7441c10003ea2c4e_3657-1-80c44cc-w720-h720.jpg
+2022-11-28 01:28:51.550 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Industrial/b021911c07fd4872_7011-1-afa76f9-w720-h720.jpg
+2022-11-28 01:28:51.551 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:28:51.551 +01:00 [INF] Finished scrapping style: Industrial at page: 2
+2022-11-28 01:28:51.551 +01:00 [INF] Starting scrapping style: Minimalistic...
+2022-11-28 01:28:51.552 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/20...
+2022-11-28 01:28:51.553 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/20
+2022-11-28 01:28:51.554 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/20
+2022-11-28 01:28:52.960 +01:00 [INF] Received HTTP response headers after 1405.764ms - 200
+2022-11-28 01:28:52.961 +01:00 [INF] End processing HTTP request after 1409.1467ms - 200
+2022-11-28 01:28:53.448 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/20
+2022-11-28 01:28:53.650 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/cbb1c7400b562afb_0875-1-71e0858-w720-h720.jpg
+2022-11-28 01:28:53.841 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/fd21b73404cffebb_1478-1-e438443-w720-h720.jpg
+2022-11-28 01:28:53.893 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/2551b1910fd6791e_8770-1-dcf81c5-w720-h720.jpg
+2022-11-28 01:28:54.106 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/0ec1a7180b4b7c88_0539-1-4aa016f-w720-h720.jpg
+2022-11-28 01:28:54.313 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/79c1e1180464087f_2004-1-2ced085-w720-h720.jpg
+2022-11-28 01:28:54.507 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/2d61b35c0b68a222_4298-1-2b80a25-w720-h720.jpg
+2022-11-28 01:28:54.708 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/f2f1b61a0e4c4dbe_3984-w720-h720.jpg
+2022-11-28 01:28:54.913 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/53b1826900e4823d_9717-1-a7122c3-w720-h720.jpg
+2022-11-28 01:28:55.112 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/4271d0fd05370fa7_9945-1-ab0db33-w720-h720.jpg
+2022-11-28 01:28:55.311 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/46c10968082ddb99_7051-1-69eafa3-w720-h720.jpg
+2022-11-28 01:28:55.516 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/08418d310cc87565_7236-1-732b04b-w720-h720.jpg
+2022-11-28 01:28:55.725 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/3b41a72a08e529ad_9035-1-db483dd-w720-h720.jpg
+2022-11-28 01:28:55.926 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/fb51cc360c39025d_4667-1-28bd8d7-w720-h720.jpg
+2022-11-28 01:28:55.968 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/11d18f00098cb79b_6013-1-e7d8860-w720-h720.jpg
+2022-11-28 01:28:56.357 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/0d91e7420a53e8c8_4095-1-663a418-w720-h720.jpg
+2022-11-28 01:28:56.545 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/b821345605cb9efe_4006-1-fbce1b8-w720-h720.jpg
+2022-11-28 01:28:56.918 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/805107fa0963d0fd_4007-1-8c2ba13-w720-h720.jpg
+2022-11-28 01:28:57.118 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/ee01dcf5001bf686_0663-1-6dacc3f-w720-h720.jpg
+2022-11-28 01:28:57.320 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/61615bd30996ccb6_3480-1-28e1763-w720-h720.jpg
+2022-11-28 01:28:57.512 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/5b71794d0a199323_3965-1-5eca7bb-w720-h720.jpg
+2022-11-28 01:28:57.512 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:28:57.512 +01:00 [INF] Finished scrapping style: Minimalistic at page: 1
+2022-11-28 01:28:57.513 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/40...
+2022-11-28 01:28:57.513 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/40
+2022-11-28 01:28:57.513 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/40
+2022-11-28 01:28:58.277 +01:00 [INF] Received HTTP response headers after 763.1186ms - 200
+2022-11-28 01:28:58.278 +01:00 [INF] End processing HTTP request after 765.3098ms - 200
+2022-11-28 01:28:58.552 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/minimalist-living-room/nqrwns/p/40
+2022-11-28 01:28:58.758 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/73d1e3f90a6fe40c_3028-1-74597de-w720-h720.jpg
+2022-11-28 01:28:59.117 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/74d1cbf50d409081_5842-1-fb63fb1-w720-h720.jpg
+2022-11-28 01:28:59.164 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/d6612c050681b0c2_2172-1-0e03f14-w720-h720.jpg
+2022-11-28 01:28:59.634 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/7f613c310a0b5e9c_6402-1-9f1ccc1-w720-h720.jpg
+2022-11-28 01:28:59.830 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/c6b1bb0e078821cd_5444-1-64d9c2d-w720-h720.jpg
+2022-11-28 01:29:00.026 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/3581f9df069e947a_8341-1-78e94ca-w720-h720.jpg
+2022-11-28 01:29:00.228 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/af31aa9e09c406b5_3175-1-e8f07f9-w720-h720.jpg
+2022-11-28 01:29:00.416 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/7091e56101740c07_8804-1-04e6ba3-w720-h720.jpg
+2022-11-28 01:29:00.475 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/7ba1ba320a6a172c_3131-1-b3814f9-w720-h720.jpg
+2022-11-28 01:29:00.672 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/4da148e00fd8f254_8735-1-ea410cf-w720-h720.jpg
+2022-11-28 01:29:00.862 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/8f910195069e52e8_1554-1-dac0874-w720-h720.jpg
+2022-11-28 01:29:01.063 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/0a61a4ed0da399aa_3652-1-271ec3b-w720-h720.jpg
+2022-11-28 01:29:01.104 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/3921367300115fce_0885-1-867cbe9-w720-h720.jpg
+2022-11-28 01:29:01.287 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/.jpg
+2022-11-28 01:29:01.340 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/9471b6840d4c7e26_3885-1-b725238-w720-h720.jpg
+2022-11-28 01:29:01.673 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/6561016509ccae75_4721-1-d757c68-w720-h720.jpg
+2022-11-28 01:29:02.395 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/8091028b0c308e5c_9115-1-81b471c-w720-h720.jpg
+2022-11-28 01:29:02.592 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/f431cc7e0996cbfa_3480-1-8b7ccff-w720-h720.jpg
+2022-11-28 01:29:02.645 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/471112fe0a664c5e_3205-1-fb8c90b-w720-h720.jpg
+2022-11-28 01:29:02.839 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Minimalistic/1331d5070035068f_0342-1-6ae566d-w720-h720.jpg
+2022-11-28 01:29:02.839 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:02.840 +01:00 [INF] Finished scrapping style: Minimalistic at page: 2
+2022-11-28 01:29:02.840 +01:00 [INF] Starting scrapping style: Modern...
+2022-11-28 01:29:02.840 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=1...
+2022-11-28 01:29:02.841 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=1
+2022-11-28 01:29:02.841 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=1
+2022-11-28 01:29:03.425 +01:00 [INF] Received HTTP response headers after 583.8123ms - 200
+2022-11-28 01:29:03.426 +01:00 [INF] End processing HTTP request after 585.535ms - 200
+2022-11-28 01:29:05.506 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=1
+2022-11-28 01:29:05.546 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/ab71838709d3bb75_1381-1-ec30a1c-w720-h720.jpg
+2022-11-28 01:29:05.587 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/c971036c0bdc4f53_9822-1-a92e8d5-w720-h720.jpg
+2022-11-28 01:29:05.780 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/8ca1c1b60dfc56fe_9089-1-ffad0b7-w720-h720.jpg
+2022-11-28 01:29:06.025 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/.jpg
+2022-11-28 01:29:06.223 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/62e16f2908aeec74_5651-1-dd373ff-w720-h720.jpg
+2022-11-28 01:29:06.269 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/e1c16613065cce30_1155-1-630acc7-w720-h720.jpg
+2022-11-28 01:29:06.323 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/e2c1053e0aba90fc_5337-1-929a515-w720-h720.jpg
+2022-11-28 01:29:06.367 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/e9718d8e0119638d_5871-1-1f2bca5-w720-h720.jpg
+2022-11-28 01:29:06.408 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/17e115d60602d73c_8945-1-48737fd-w720-h720.jpg
+2022-11-28 01:29:06.449 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/5cf162010c9b9cb8_7770-1-90da27c-w720-h720.jpg
+2022-11-28 01:29:06.658 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/aec1c87e00107ef0_0882-1-00baba4-w720-h720.jpg
+2022-11-28 01:29:06.852 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/13b1f54409f25b5d_5745-1-1b78458-w720-h720.jpg
+2022-11-28 01:29:07.043 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/6ce1af87005743ad_5229-1-0d4ee44-w720-h720.jpg
+2022-11-28 01:29:07.251 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/94514a010f872cd5_2158-1-4b77cab-w720-h720.jpg
+2022-11-28 01:29:07.292 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/876183c20bdca3c8_9809-1-94ab9e6-w720-h720.jpg
+2022-11-28 01:29:07.751 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/8f11b4700babc041_0145-1-459f806-w720-h720.jpg
+2022-11-28 01:29:07.794 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/2bb1271f0f42d8a6_1779-1-d5430c4-w720-h720.jpg
+2022-11-28 01:29:07.983 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/cdc172d507ffb7c2_7550-1-516ad76-w720-h720.jpg
+2022-11-28 01:29:08.335 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/11618c010a14924e_2644-1-99ed51f-w720-h720.jpg
+2022-11-28 01:29:08.378 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/19c199a80283d43d_6100-1-499339d-w720-h720.jpg
+2022-11-28 01:29:08.378 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:08.378 +01:00 [INF] Finished scrapping style: Modern at page: 1
+2022-11-28 01:29:08.379 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=2...
+2022-11-28 01:29:08.379 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=2
+2022-11-28 01:29:08.379 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=2
+2022-11-28 01:29:09.364 +01:00 [INF] Received HTTP response headers after 984.4379ms - 200
+2022-11-28 01:29:09.365 +01:00 [INF] End processing HTTP request after 985.5865ms - 200
+2022-11-28 01:29:09.941 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/modern-living-room-ideas-phbr1-bp~t_718~s_2105?pg=2
+2022-11-28 01:29:09.979 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/cbb1c7400b562afb_0875-1-71e0858-w720-h720.jpg
+2022-11-28 01:29:10.036 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/fd21b73404cffebb_1478-1-e438443-w720-h720.jpg
+2022-11-28 01:29:10.085 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/2551b1910fd6791e_8770-1-dcf81c5-w720-h720.jpg
+2022-11-28 01:29:10.143 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/0ec1a7180b4b7c88_0539-1-4aa016f-w720-h720.jpg
+2022-11-28 01:29:10.192 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/79c1e1180464087f_2004-1-2ced085-w720-h720.jpg
+2022-11-28 01:29:10.234 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/2d61b35c0b68a222_4298-1-2b80a25-w720-h720.jpg
+2022-11-28 01:29:10.277 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/f2f1b61a0e4c4dbe_3984-w720-h720.jpg
+2022-11-28 01:29:10.322 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/53b1826900e4823d_9717-1-a7122c3-w720-h720.jpg
+2022-11-28 01:29:10.358 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/4271d0fd05370fa7_9945-1-ab0db33-w720-h720.jpg
+2022-11-28 01:29:10.401 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/46c10968082ddb99_7051-1-69eafa3-w720-h720.jpg
+2022-11-28 01:29:10.450 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/08418d310cc87565_7236-1-732b04b-w720-h720.jpg
+2022-11-28 01:29:10.490 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/3b41a72a08e529ad_9035-1-db483dd-w720-h720.jpg
+2022-11-28 01:29:10.538 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/fb51cc360c39025d_4667-1-28bd8d7-w720-h720.jpg
+2022-11-28 01:29:10.577 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/11d18f00098cb79b_6013-1-e7d8860-w720-h720.jpg
+2022-11-28 01:29:10.622 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/0d91e7420a53e8c8_4095-1-663a418-w720-h720.jpg
+2022-11-28 01:29:10.656 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/b821345605cb9efe_4006-1-fbce1b8-w720-h720.jpg
+2022-11-28 01:29:10.699 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/805107fa0963d0fd_4007-1-8c2ba13-w720-h720.jpg
+2022-11-28 01:29:10.743 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/ee01dcf5001bf686_0663-1-6dacc3f-w720-h720.jpg
+2022-11-28 01:29:10.786 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/61615bd30996ccb6_3480-1-28e1763-w720-h720.jpg
+2022-11-28 01:29:10.829 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Modern/5b71794d0a199323_3965-1-5eca7bb-w720-h720.jpg
+2022-11-28 01:29:10.829 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:10.829 +01:00 [INF] Finished scrapping style: Modern at page: 2
+2022-11-28 01:29:10.829 +01:00 [INF] Starting scrapping style: Rustic...
+2022-11-28 01:29:10.829 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=1...
+2022-11-28 01:29:10.829 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=1
+2022-11-28 01:29:10.829 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=1
+2022-11-28 01:29:11.717 +01:00 [INF] Received HTTP response headers after 887.5799ms - 200
+2022-11-28 01:29:11.718 +01:00 [INF] End processing HTTP request after 888.7137ms - 200
+2022-11-28 01:29:12.766 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=1
+2022-11-28 01:29:12.959 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/2df1e2ab0e77cb55_7570-1-c8047ea-w720-h720.jpg
+2022-11-28 01:29:13.159 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/e2913e2b0e59a3d3_1863-1-779db5b-w720-h720.jpg
+2022-11-28 01:29:13.379 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/1af1ca860e0fa847_8960-1-5954254-w720-h720.jpg
+2022-11-28 01:29:13.583 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/f421dfaa0e5565ac_7878-1-ce45a09-w720-h720.jpg
+2022-11-28 01:29:13.783 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/3351fa610e533853_7893-1-387b8e8-w720-h720.jpg
+2022-11-28 01:29:13.979 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/59315e230e6661d0_7799-1-cf8922a-w720-h720.jpg
+2022-11-28 01:29:14.196 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/1ab1fa710ec179e9_6556-1-44ad745-w720-h720.jpg
+2022-11-28 01:29:14.395 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/.jpg
+2022-11-28 01:29:14.596 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/c9515be60eac66af_1309-1-d8e63ed-w720-h720.jpg
+2022-11-28 01:29:14.789 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/1a81357e09e8faab_6428-1-0e307b3-w720-h720.jpg
+2022-11-28 01:29:14.994 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/e9713e260e8f68c1_1487-1-c5c34d0-w720-h720.jpg
+2022-11-28 01:29:15.570 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/8fe1150f0f5a466f_1259-1-68b1bd2-w720-h720.jpg
+2022-11-28 01:29:15.629 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/bf11d6bc026e9eef_4762-1-343cc93-w720-h720.jpg
+2022-11-28 01:29:15.829 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/61a15b4c0ea31df1_6966-1-66c5860-w720-h720.jpg
+2022-11-28 01:29:16.047 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/8381420d0e30a0c6_8468-1-308ca56-w720-h720.jpg
+2022-11-28 01:29:16.256 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/fda12c0608ed14b2_8804-1-3470981-w720-h720.jpg
+2022-11-28 01:29:16.469 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/e641615302f50430_7730-1-0ee1e6e-w720-h720.jpg
+2022-11-28 01:29:16.685 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/2341e8970b1ed27b_1291-1-44fcdc7-w720-h720.jpg
+2022-11-28 01:29:16.882 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/0f61c3f60ccb191a_8606-1-04c639d-w720-h720.jpg
+2022-11-28 01:29:17.412 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/0781f58d0c2e84bc_9397-1-5e3b498-w720-h720.jpg
+2022-11-28 01:29:17.413 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:17.413 +01:00 [INF] Finished scrapping style: Rustic at page: 1
+2022-11-28 01:29:17.413 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=2...
+2022-11-28 01:29:17.414 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=2
+2022-11-28 01:29:17.414 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=2
+2022-11-28 01:29:18.273 +01:00 [INF] Received HTTP response headers after 859.0897ms - 200
+2022-11-28 01:29:18.273 +01:00 [INF] End processing HTTP request after 860.1101ms - 200
+2022-11-28 01:29:19.548 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/rustic-living-room-ideas-and-designs-phbr1-bp~t_718~s_2111?pg=2
+2022-11-28 01:29:19.761 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/bce1389b03c05788_1658-1-9471aed-w720-h720.jpg
+2022-11-28 01:29:19.966 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/23d1957f073534c4_9104-1-3c021a5-w720-h720.jpg
+2022-11-28 01:29:19.966 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/.jpg because it already exists
+2022-11-28 01:29:20.165 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/5ab11229029e3db9_9541-1-5736e9d-w720-h720.jpg
+2022-11-28 01:29:20.771 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/6d61f3510fd67856_8769-1-9255bfd-w720-h720.jpg
+2022-11-28 01:29:20.817 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/e9b16ba305a150eb_8070-1-e7f453d-w720-h720.jpg
+2022-11-28 01:29:21.028 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/f8912c570da797b8_4797-1-d13ef4d-w720-h720.jpg
+2022-11-28 01:29:21.233 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/58e1ba5a0eb2e255_3512-1-4415da2-w720-h720.jpg
+2022-11-28 01:29:21.429 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/54b1b1c00e62bdc1_7855-1-6a0d7a5-w720-h720.jpg
+2022-11-28 01:29:21.626 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/51f196f4040d1faf_3305-1-11fbe6a-w720-h720.jpg
+2022-11-28 01:29:21.626 +01:00 [INF] Skipping image /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/.jpg because it already exists
+2022-11-28 01:29:21.843 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/fcf1a1940f49432b_2580-1-fbe0aa9-w720-h720.jpg
+2022-11-28 01:29:22.047 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/2501ed8c040e3d2e_6060-1-328a1c6-w720-h720.jpg
+2022-11-28 01:29:22.492 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/e0f1999f00e481ef_9717-1-c8a0f68-w720-h720.jpg
+2022-11-28 01:29:22.863 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/98c1637809df654d_0925-1-d701356-w720-h720.jpg
+2022-11-28 01:29:23.069 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/cd81419b03f69a3c_7808-1-1a9d9eb-w720-h720.jpg
+2022-11-28 01:29:23.128 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/5a01317c0d0b9ad3_8291-1-c68ea02-w720-h720.jpg
+2022-11-28 01:29:23.331 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/1541039b0b998ed9_4962-1-a560458-w720-h720.jpg
+2022-11-28 01:29:23.536 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/63a1b9910b1ed1eb_1291-1-4faba9a-w720-h720.jpg
+2022-11-28 01:29:23.594 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Rustic/b0017cac0012e490_0906-1-af9e301-w720-h720.jpg
+2022-11-28 01:29:23.595 +01:00 [INF] Downloaded: 18 images
+2022-11-28 01:29:23.595 +01:00 [INF] Finished scrapping style: Rustic at page: 2
+2022-11-28 01:29:23.595 +01:00 [INF] Starting scrapping style: Scandinavian...
+2022-11-28 01:29:23.595 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=1...
+2022-11-28 01:29:23.595 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=1
+2022-11-28 01:29:23.595 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=1
+2022-11-28 01:29:24.517 +01:00 [INF] Received HTTP response headers after 921.9281ms - 200
+2022-11-28 01:29:24.518 +01:00 [INF] End processing HTTP request after 923.003ms - 200
+2022-11-28 01:29:25.484 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=1
+2022-11-28 01:29:25.721 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/91c11b970bc0993f_9979-1-9ea6ecc-w720-h720.jpg
+2022-11-28 01:29:25.914 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/bfe17e5d0e69210b_7596-1-caad61f-w720-h720.jpg
+2022-11-28 01:29:26.106 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/0281b1db03541144_8129-1-79e2235-w720-h720.jpg
+2022-11-28 01:29:26.665 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/e391d6b60d655ab4_5421-1-05b0bf1-w720-h720.jpg
+2022-11-28 01:29:26.857 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/ece1134d0a180cbe_4017-1-7b6cf92-w720-h720.jpg
+2022-11-28 01:29:26.902 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/5081f5b70e664b99_7791-1-29ce900-w720-h720.jpg
+2022-11-28 01:29:27.358 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/60c172a70d083c6a_4189-1-7ead02a-w720-h720.jpg
+2022-11-28 01:29:27.403 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/c1811f970696d608_1645-1-dacd6a6-w720-h720.jpg
+2022-11-28 01:29:27.446 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/15a160ce0a7a1d9b_2894-1-cb80401-w720-h720.jpg
+2022-11-28 01:29:27.653 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/43f17fea0b338edb_3539-1-278671f-w720-h720.jpg
+2022-11-28 01:29:28.307 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/8a01a48b0e1e32dc_6316-1-30c0e79-w720-h720.jpg
+2022-11-28 01:29:28.350 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/cab16c940ac33c9a_8090-1-75030dd-w720-h720.jpg
+2022-11-28 01:29:28.560 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/17316abe0697fe7e_1628-1-ddfbdd8-w720-h720.jpg
+2022-11-28 01:29:28.614 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/0601ad3a05e067c6_2120-1-70b4d99-w720-h720.jpg
+2022-11-28 01:29:28.805 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/9a71b20009a037bf_3021-1-24444dd-w720-h720.jpg
+2022-11-28 01:29:29.221 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/83a1d2c20745a4cf_7098-1-50ff40a-w720-h720.jpg
+2022-11-28 01:29:29.455 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/df01831b0b983631_0378-1-bfb5f1a-w720-h720.jpg
+2022-11-28 01:29:29.822 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/1c611e2d0b587c2e_0807-1-0d9c223-w720-h720.jpg
+2022-11-28 01:29:30.015 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/7c910eb506453932_3245-1-9a27e4a-w720-h720.jpg
+2022-11-28 01:29:30.219 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/b98155150711e729_9461-1-f1fa3de-w720-h720.jpg
+2022-11-28 01:29:30.219 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:30.220 +01:00 [INF] Finished scrapping style: Scandinavian at page: 1
+2022-11-28 01:29:30.220 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=2...
+2022-11-28 01:29:30.222 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=2
+2022-11-28 01:29:30.222 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=2
+2022-11-28 01:29:30.918 +01:00 [INF] Received HTTP response headers after 695.0617ms - 200
+2022-11-28 01:29:30.918 +01:00 [INF] End processing HTTP request after 698.0187ms - 200
+2022-11-28 01:29:31.230 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/scandinavian-living-room-ideas-phbr1-bp~t_718~s_22848?pg=2
+2022-11-28 01:29:31.784 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/7a41c0fa056dd3cf_2740-1-a97d890-w720-h720.jpg
+2022-11-28 01:29:31.970 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/34718e14083c6f95_1051-1-40b35b7-w720-h720.jpg
+2022-11-28 01:29:32.152 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/af11838b031f7e4f_3514-1-f16fbab-w720-h720.jpg
+2022-11-28 01:29:32.347 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/e321b8250a1d3bee_2543-1-0a20294-w720-h720.jpg
+2022-11-28 01:29:32.390 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/d7f1db1f0e95ef1e_7290-1-db5906c-w720-h720.jpg
+2022-11-28 01:29:32.598 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/7e01264b0bfa2481_9623-1-f038e40-w720-h720.jpg
+2022-11-28 01:29:32.825 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/4641f0e70b50f925_3233-1-8b27846-w720-h720.jpg
+2022-11-28 01:29:33.015 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/5b61f9be08b40447_9761-1-0b0dfb9-w720-h720.jpg
+2022-11-28 01:29:33.528 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/81114fa20756a3b7_7434-1-19be7c5-w720-h720.jpg
+2022-11-28 01:29:33.961 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/d0b1623a0c3483b9_9069-1-4c5e7ca-w720-h720.jpg
+2022-11-28 01:29:34.018 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/24a1af520df708c6_6346-1-7cc6988-w720-h720.jpg
+2022-11-28 01:29:34.210 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/137188c50b3bbcdd_1050-1-19a9b61-w720-h720.jpg
+2022-11-28 01:29:34.254 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/bf01a6200e664b9d_7791-1-410bcb0-w720-h720.jpg
+2022-11-28 01:29:34.448 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/e4310180097ac0c5_3758-1-20dfcdf-w720-h720.jpg
+2022-11-28 01:29:34.636 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/a2a1f65a0b587c1d_0807-1-cac95eb-w720-h720.jpg
+2022-11-28 01:29:34.850 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/8661f3b30d792361_6979-1-b321ad5-w720-h720.jpg
+2022-11-28 01:29:35.040 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/.jpg
+2022-11-28 01:29:35.099 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/7fd153b00a549aaf_9021-1-7f646f2-w720-h720.jpg
+2022-11-28 01:29:35.142 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/8f01f86809285530_7191-1-0a2e178-w720-h720.jpg
+2022-11-28 01:29:35.336 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Scandinavian/ea010fbe0c12f52a_2610-1-2b57861-w720-h720.jpg
+2022-11-28 01:29:35.336 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:35.337 +01:00 [INF] Finished scrapping style: Scandinavian at page: 2
+2022-11-28 01:29:35.337 +01:00 [INF] Starting scrapping style: Vintage...
+2022-11-28 01:29:35.338 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/20...
+2022-11-28 01:29:35.340 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/20
+2022-11-28 01:29:35.340 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/20
+2022-11-28 01:29:36.875 +01:00 [INF] Received HTTP response headers after 1533.6693ms - 200
+2022-11-28 01:29:36.876 +01:00 [INF] End processing HTTP request after 1536.926ms - 200
+2022-11-28 01:29:37.176 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/20
+2022-11-28 01:29:37.752 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/22d10019038f0549_5283-1-7991354-w720-h720.jpg
+2022-11-28 01:29:37.952 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/.jpg
+2022-11-28 01:29:38.213 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/78e1496507bb3ad8_4569-1-7c357cb-w720-h720.jpg
+2022-11-28 01:29:38.407 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/d931c58009c19f99_2006-1-372faea-w720-h720.jpg
+2022-11-28 01:29:38.818 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/82e159af052eb167_0044-1-2400410-w720-h720.jpg
+2022-11-28 01:29:39.019 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/971117c408091075_2626-1-a8f1cca-w720-h720.jpg
+2022-11-28 01:29:39.216 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/29c1d5bc03d9bcb1_3765-1-1288903-w720-h720.jpg
+2022-11-28 01:29:39.416 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/8431f2f106c4ca98_8138-1-48741a2-w720-h720.jpg
+2022-11-28 01:29:39.793 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/56c110480523fb86_1061-1-2da1743-w720-h720.jpg
+2022-11-28 01:29:40.348 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/bde1e29a0a82b2c8_1821-1-8461fac-w720-h720.jpg
+2022-11-28 01:29:40.683 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/787167a70c4821bf_9263-1-03cefe2-w720-h720.jpg
+2022-11-28 01:29:41.260 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/86814d080785a679_5571-1-fcac26f-w720-h720.jpg
+2022-11-28 01:29:41.637 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/7041ec5706c710b3_0468-1-d3a675c-w720-h720.jpg
+2022-11-28 01:29:41.869 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/cc310d480bbb5f0b_4224-1-4d37898-w720-h720.jpg
+2022-11-28 01:29:42.383 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/3451e33e0d0e8bc8_4012-1-53e1c02-w720-h720.jpg
+2022-11-28 01:29:42.641 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/15112df306b4b817_0941-1-3ea75a5-w720-h720.jpg
+2022-11-28 01:29:42.883 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/43316f8607f7e8f9_8007-1-538caef-w720-h720.jpg
+2022-11-28 01:29:43.108 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/0d41ec9c025744f5_8306-1-f139263-w720-h720.jpg
+2022-11-28 01:29:43.636 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/23d17d220541f938_7263-1-cec2bb3-w720-h720.jpg
+2022-11-28 01:29:43.863 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/1301d7ab01dd090a_0676-1-5f0ee5b-w720-h720.jpg
+2022-11-28 01:29:43.863 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:43.863 +01:00 [INF] Finished scrapping style: Vintage at page: 1
+2022-11-28 01:29:43.865 +01:00 [INF] Starting scrapping page: https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/40...
+2022-11-28 01:29:43.865 +01:00 [INF] Start processing HTTP request GET https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/40
+2022-11-28 01:29:43.865 +01:00 [INF] Sending HTTP request GET https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/40
+2022-11-28 01:29:44.690 +01:00 [INF] Received HTTP response headers after 825.5247ms - 200
+2022-11-28 01:29:44.691 +01:00 [INF] End processing HTTP request after 826.0072ms - 200
+2022-11-28 01:29:45.102 +01:00 [INF] Found 20 images on page https://www.houzz.com/photos/query/vintage-living-room/nqrwns/p/40
+2022-11-28 01:29:45.302 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/cfb12426041b2a1e_3143-1-2ee4eb9-w720-h720.jpg
+2022-11-28 01:29:45.353 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/5321b3ed002c4409_6505-1-4138494-w720-h720.jpg
+2022-11-28 01:29:45.594 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/40b11c2a0eb7e730_3133-1-9d46144-w720-h720.jpg
+2022-11-28 01:29:45.894 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/eba1802602855d02_6082-1-ae34710-w720-h720.jpg
+2022-11-28 01:29:46.103 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/c131eca9044d88d6_2662-1-8f11ca7-w720-h720.jpg
+2022-11-28 01:29:46.312 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/4a51441a02494ca0_8702-1-07b9b06-w720-h720.jpg
+2022-11-28 01:29:46.522 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/b4318c5b025547de_6521-1-a7f4efd-w720-h720.jpg
+2022-11-28 01:29:46.726 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/410123cf00b92070_1334-1-02a75a9-w720-h720.jpg
+2022-11-28 01:29:46.926 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/e8714dd3080148fd_7500-1-7eab938-w720-h720.jpg
+2022-11-28 01:29:47.154 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/8de176fa0cc710aa_4102-1-10aeb00-w720-h720.jpg
+2022-11-28 01:29:47.659 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/c751ec500a9599de_2704-1-2afa2cb-w720-h720.jpg
+2022-11-28 01:29:48.100 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/2191293d04712a77_2422-1-33b36f6-w720-h720.jpg
+2022-11-28 01:29:48.314 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/e7e18d55042f2465_1279-1-2730959-w720-h720.jpg
+2022-11-28 01:29:48.363 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/eda1422c04d13705_2053-1-d76d32d-w720-h720.jpg
+2022-11-28 01:29:48.819 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/302147770a3ce36a_2248-1-51211ec-w720-h720.jpg
+2022-11-28 01:29:48.875 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/0b91cc1300c26897_8814-1-3fdab6f-w720-h720.jpg
+2022-11-28 01:29:49.346 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/13d1ecd70527e3f6_0483-1-2c8ce6b-w720-h720.jpg
+2022-11-28 01:29:49.550 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/a131ead707c718a4_4257-1-73b23a3-w720-h720.jpg
+2022-11-28 01:29:49.760 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/e6a1280e0c13a2a9_4192-1-c9d0f4d-w720-h720.jpg
+2022-11-28 01:29:50.427 +01:00 [INF] Downloading image to /Users/adamwojdyla/Documents/Studia/Magisterskie/AITechFlats/Scrapper/ImageScrapper/ImageScrapper/Images/Houzz/Vintage/33f1bebf02e6d626_5540-1-fd6b5d3-w720-h720.jpg
+2022-11-28 01:29:50.427 +01:00 [INF] Downloaded: 20 images
+2022-11-28 01:29:50.427 +01:00 [INF] Finished scrapping style: Vintage at page: 2
+2022-11-28 01:29:50.431 +01:00 [INF] Searching completed
+2022-11-28 01:29:50.434 +01:00 [INF] ResellScrapperV3 executed

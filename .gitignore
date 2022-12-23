@@ -489,3 +489,4 @@ MigrationBackup/
 *.jpg
 
 .idea
+ImageScrapper/ImageScrapper/Logs/

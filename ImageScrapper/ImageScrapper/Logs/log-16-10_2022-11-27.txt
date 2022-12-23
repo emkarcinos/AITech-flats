@@ -1,3 +1,0 @@
-2022-11-27 16:10:02.792 +01:00 [INF] Searching started...
-2022-11-27 16:10:07.283 +01:00 [INF] Searching completed
-2022-11-27 16:10:07.286 +01:00 [INF] ResellScrapperV3 executed

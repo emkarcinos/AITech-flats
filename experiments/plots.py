@@ -1,15 +1,18 @@
 from datetime import timedelta
 
 import matplotlib.pyplot as plt
+import numpy as np
 import seaborn as sns
+from torch.utils.data import Dataset
+from torchvision.transforms import ToPILImage
 
-from metrics import Metrics
+import metrics
 
 
 def plot_metrics(
         title: str,
-        test_metrics: Metrics,
-        train_metrics: Metrics,
+        test_metrics: metrics.Metrics,
+        train_metrics: metrics.Metrics,
         n_epochs: int,
         time: int,
         image_size: int,
@@ -71,4 +74,34 @@ def plot_metrics(
              f'{str(timedelta(seconds=time)).split(".", maxsplit=1)[0]}',
              fontsize=14,
              transform=plt.gcf().transFigure)
+    plt.show()
+
+
+def show_missclassified(
+        dataset: Dataset,
+        preds: np.ndarray,
+        label_names: dict,
+        count_per_class: int = 5
+):
+    results = {}
+    for i in label_names.keys():
+        results[i] = []
+
+    indexes = np.random.permutation(len(preds))
+    for i in indexes:
+        pred = preds[i]
+        image_tensor, true = dataset[i]
+        if len(results[pred]) < count_per_class and pred != int(true):
+            results[pred].append({
+                "image": ToPILImage()(image_tensor),
+                "actual": int(true)
+            })
+    sns.reset_orig()
+    plt.figure(figsize=[20, 30])
+    for row, (label, images) in enumerate(results.items()):
+        for i, image in enumerate(images):
+            plt.subplot(len(label_names.keys()), count_per_class, row * count_per_class + i + 1)
+            plt.imshow(image["image"], interpolation="bicubic")
+            plt.title(f'{label_names[label]}, expected {label_names[image["actual"]]}')
+            plt.axis('off')
     plt.show()

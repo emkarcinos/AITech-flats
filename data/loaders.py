@@ -30,18 +30,17 @@ def _load_data(input_dir: str, new_size: int | None = None):
     for directory in folders:
         count = 0
         for obj in directory.iterdir():
-            if os.path.isfile(obj) and os.path.basename(os.path.normpath(obj)) != 'desktop.ini':
-                try:
-                    img = imread(obj)
-                    if new_size is not None:
-                        img = cv.resize(img, (new_size, new_size), interpolation=cv.INTER_AREA)
-                    img = img / 255
-                    train_img.append(img)
-                    labels.append(os.path.basename(os.path.normpath(directory)))
-                    count += 1
-                except ValueError:
-                    # This can happen when a file is broken, so let's omit it.
-                    print(f'Broken file: {obj}')
+            try:
+                img = imread(obj)
+                if new_size is not None:
+                    img = cv.resize(img, (new_size, new_size), interpolation=cv.INTER_AREA)
+                img = img / 255
+                train_img.append(img)
+                labels.append(os.path.basename(os.path.normpath(directory)))
+                count += 1
+            except ValueError:
+                # This can happen when a file is broken, so let's omit it.
+                print(f'Broken file: {obj}')
     return {
         "values": np.array(train_img),
         "categories_count": categories_count,
@@ -52,10 +51,11 @@ def _load_data(input_dir: str, new_size: int | None = None):
 
 class FlatsDataset(Dataset):
     def __init__(self, data, device):
+        self.device = device
         self.x = []
         for d in data['values']:
-            self.x.append(transforms.ToTensor()(d).to(device))
-        self.y = torch.LongTensor(LabelEncoder().fit_transform(data['labels'])).to(device)
+            self.x.append(transforms.ToTensor()(d))
+        self.y = torch.LongTensor(LabelEncoder().fit_transform(data['labels']))
 
     def __len__(self):
         return len(self.x)

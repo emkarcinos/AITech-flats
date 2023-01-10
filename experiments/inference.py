@@ -45,9 +45,11 @@ def evaluate(
             losses.append(loss.item())
     return trues, preds, losses
 
+
 def predict_image(
     classifier: nn.Module,
     classes: list[str],
+    device: str,
     image
 ) -> int:
     """
@@ -84,6 +86,7 @@ def predict_image(
     index = output.cpu().data.numpy().argmax()
 
     return index
+
 
 if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')

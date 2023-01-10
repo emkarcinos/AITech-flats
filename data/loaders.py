@@ -116,7 +116,7 @@ class FlatsDatasetLoader(Dataset, ABC):
             print('Done.')
 
 
-    def load_v2(self, verbose: bool = True):
+    def load_v2(self, verbose: bool = True, subset_size: int = None):
         train_set_size_ratio = 0.7
 
         transformation = transforms.Compose([
@@ -132,6 +132,13 @@ class FlatsDatasetLoader(Dataset, ABC):
             root=self.images_dir,
             transform=transformation
         )
+        
+        self.classes_count = len(full_dataset.classes)
+        self.label_names = dict([(value, key) for key, value in full_dataset.class_to_idx.items()])
+
+        if subset_size:
+            full_dataset = torch.utils.data.Subset(full_dataset, np.random.choice(len(full_dataset), subset_size, replace=False))
+    
 
         train_size = int(train_set_size_ratio * len(full_dataset))
         test_size = len(full_dataset) - train_size
@@ -151,12 +158,6 @@ class FlatsDatasetLoader(Dataset, ABC):
             shuffle=False
         )
 
-        if verbose:
-            print('Done. Creating PyTorch datasets...')
-        
-        self.classes_count = len(full_dataset.classes)
-        self.label_names = dict([(value, key) for key, value in self.test_loader.dataset.dataset.class_to_idx.items()])
-        
         print('Done.')
 
     def get_train_loader(self) -> DataLoader:

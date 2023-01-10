@@ -15,7 +15,7 @@ import torchvision.transforms as transforms
 import torchvision
 
 
-def _load_data(input_dir, new_size):
+def _load_data(input_dir: str, new_size: int | None = None):
     image_dir = Path(input_dir)
     categories_name = {}
     i = 0

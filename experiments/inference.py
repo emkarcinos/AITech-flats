@@ -1,4 +1,5 @@
 import argparse
+from typing import Union
 
 import cv2 as cv
 import numpy as np
@@ -22,7 +23,7 @@ def evaluate(
         test_data: DataLoader,
         loss_fn,
         device_type: str
-):
+) -> Union[np.ndarray, np.ndarray, list[float]]:
     """
     Test a given model and return true, predicted values and loss
     """

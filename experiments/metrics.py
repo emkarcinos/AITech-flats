@@ -29,10 +29,10 @@ class Metrics:
     def as_dict(self, current_state=False):
         return {
             "loss": self.loss if not current_state else self.loss[-1],
-            "acc": self.accuracy if not current_state else self.loss[-1],
-            "precision": self.precision if not current_state else self.loss[-1],
-            "recall": self.recall if not current_state else self.loss[-1],
-            "f": self.f_score if not current_state else self.loss[-1]
+            "acc": self.accuracy if not current_state else self.accuracy[-1],
+            "precision": self.precision if not current_state else self.precision[-1],
+            "recall": self.recall if not current_state else self.recall[-1],
+            "f": self.f_score if not current_state else self.f_score[-1]
         }
 
     def __str__(self):

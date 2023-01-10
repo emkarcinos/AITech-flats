@@ -2,6 +2,7 @@ import os
 from abc import ABC
 from pathlib import Path
 from typing import Callable
+import json
 
 import cv2 as cv
 import numpy as np
@@ -10,9 +11,11 @@ from skimage.io import imread
 from sklearn.preprocessing import LabelEncoder
 from torch.utils.data import Dataset, DataLoader
 from torchvision.transforms import transforms
+import torchvision.transforms as transforms
+import torchvision
 
 
-def _load_data(input_dir: str, new_size: int | None = None):
+def _load_data(input_dir, new_size):
     image_dir = Path(input_dir)
     categories_name = {}
     i = 0
@@ -104,6 +107,50 @@ class FlatsDatasetLoader(Dataset, ABC):
         if verbose:
             print('Done.')
 
+
+    def load_v2(self, verbose: bool = True):
+        train_set_size_ratio = 0.7
+
+        transformation = transforms.Compose([
+            transforms.Resize(self.resize_to),
+            transforms.CenterCrop(224),
+            transforms.ToTensor(),
+            transforms.Normalize(mean=[0.5, 0.5, 0.5], std=[0.5, 0.5, 0.5])
+        ])
+        
+        if verbose:
+            print('Loading dataset from files...')
+        full_dataset = torchvision.datasets.ImageFolder(
+            root=self.images_dir,
+            transform=transformation
+        )
+
+        train_size = int(train_set_size_ratio * len(full_dataset))
+        test_size = len(full_dataset) - train_size
+        train_dataset, test_dataset = torch.utils.data.random_split(full_dataset, [train_size, test_size])
+
+        self.train_loader = torch.utils.data.DataLoader(
+            train_dataset,
+            batch_size=self.batch_size,
+            num_workers=2,
+            shuffle=True
+        )
+
+        self.test_loader = torch.utils.data.DataLoader(
+            test_dataset,
+            batch_size=self.batch_size,
+            num_workers=2,
+            shuffle=False
+        )
+
+        if verbose:
+            print('Done. Creating PyTorch datasets...')
+        
+        self.classes_count = len(full_dataset.classes)
+        self.label_names = dict([(value, key) for key, value in self.test_loader.dataset.dataset.class_to_idx.items()])
+        
+        print('Done.')
+
     def get_train_loader(self) -> DataLoader:
         return self.train_loader
 
@@ -115,3 +162,15 @@ class FlatsDatasetLoader(Dataset, ABC):
 
     def get_classes_count(self) -> int:
         return self.classes_count
+    
+    def __str__(self):
+        json_obj = {
+            "Full dataset count: ": len(self.train_loader.dataset) + len(self.test_loader.dataset),
+            "Train dataset count: ": len(self.train_loader.dataset),
+            "Test dataset count: ": len(self.test_loader.dataset),
+            "Classes count: ": self.classes_count,
+            "Label names: ": self.get_label_names()
+        }
+        json_formatted_str = json.dumps(json_obj, indent=2)
+        return json_formatted_str
+

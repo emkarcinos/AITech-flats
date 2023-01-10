@@ -22,7 +22,7 @@ def evaluate(
         test_data: DataLoader,
         loss_fn,
         device_type: str
-) -> [np.ndarray, np.ndarray, list[float]]:
+):
     """
     Test a given model and return true, predicted values and loss
     """

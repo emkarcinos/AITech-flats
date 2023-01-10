@@ -51,6 +51,13 @@ def _load_data(input_dir: str, new_size: int | None = None):
         "categories_name": categories_name
     }
 
+def _prepare_directory(input_dir: str):
+    try:
+        os.remove(os.path.join(input_dir, ".DS_Store"))
+        print("DS_Store file removed")
+    except FileNotFoundError:
+        print("No DS_Store file found")
+
 
 class FlatsDataset(Dataset):
     def __init__(self, data, device):
@@ -85,6 +92,7 @@ class FlatsDatasetLoader(Dataset, ABC):
         self.test_loader = None
         self.classes_count = 0
         self.label_names = {}
+        _prepare_directory(self.images_dir)
 
     def load(self, verbose: bool = True):
         test_dir = os.path.join(self.images_dir, 'test')

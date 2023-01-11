@@ -41,30 +41,31 @@ def plot_metrics(
     """
     plt.style.use('classic')
     sns.set()
+    epoch_nums = np.arange(1, n_epochs + 1)
 
     fig, axis = plt.subplot_mosaic([['l', 'l'],
                                     ['a', 'p'],
                                     ['r', 'f']],
                                    constrained_layout=True, figsize=(10, 10))
-    axis['l'].plot(test_metrics.loss)
-    axis['l'].plot(train_metrics.loss)
-    axis['l'].set_yscale('log')
+    axis['l'].plot(epoch_nums, test_metrics.loss)
+    axis['l'].plot(epoch_nums, train_metrics.loss)
+    # axis['l'].set_yscale('log')
     axis['l'].set_title("Loss")
 
-    axis['a'].plot(test_metrics.accuracy)
-    axis['a'].plot(train_metrics.accuracy)
+    axis['a'].plot(epoch_nums, test_metrics.accuracy)
+    axis['a'].plot(epoch_nums, train_metrics.accuracy)
     axis['a'].set_title("Accuracy")
 
-    axis['p'].plot(test_metrics.precision)
-    axis['p'].plot(train_metrics.precision)
+    axis['p'].plot(epoch_nums, test_metrics.precision)
+    axis['p'].plot(epoch_nums, train_metrics.precision)
     axis['p'].set_title("Precision")
 
-    axis['r'].plot(test_metrics.recall)
-    axis['r'].plot(train_metrics.recall)
+    axis['r'].plot(epoch_nums, test_metrics.recall)
+    axis['r'].plot(epoch_nums, train_metrics.recall)
     axis['r'].set_title("Recall")
 
-    axis['f'].plot(test_metrics.f_score)
-    axis['f'].plot(train_metrics.f_score)
+    axis['f'].plot(epoch_nums, test_metrics.f_score)
+    axis['f'].plot(epoch_nums, train_metrics.f_score)
     axis['f'].set_title("F-score")
     fig.tight_layout()
     fig.subplots_adjust(top=0.90, bottom=0.05)
@@ -191,7 +192,7 @@ def plot_roc_curve_muticlass(
     tpr = {}
     thresh ={}
     colors = ['orange', 'lightgreen', 'blue', 'red', 'olive', 'azure', 'purple', 'aqua', 'darkgreen']
-    plt.figure(figsize=(8, 8))
+    plt.figure(figsize=(7, 7))
 
     for i in range(len(classes)):    
         fpr[i], tpr[i], thresh[i] = roc_curve(np.array(truelabels), np.array(predictions)[:,i], pos_label=i)
@@ -242,11 +243,11 @@ def plot_roc_curve_one_vs_rest(
 
     truelabels = np.array(truelabels)
     predictions = np.array(predictions)
-    class_id=1
+
     RocCurveDisplay.from_predictions(
-        truelabels[:, class_id],
-        predictions[:, class_id],
-        name=f"{classes[class_id]} vs the rest",
+        truelabels[:, classId],
+        predictions[:, classId],
+        name=f"{classes[classId]} vs the rest",
         color="darkorange",
     )
     plt.plot([0, 1], [0, 1], "k--", label="chance level (AUC = 0.5)")

@@ -147,14 +147,14 @@ class FlatsDatasetLoader(Dataset, ABC):
         self.train_loader = torch.utils.data.DataLoader(
             train_dataset,
             batch_size=self.batch_size,
-            num_workers=2,
-            shuffle=True
+            num_workers=4,
+            shuffle=False
         )
 
         self.test_loader = torch.utils.data.DataLoader(
             test_dataset,
             batch_size=self.batch_size,
-            num_workers=2,
+            num_workers=4,
             shuffle=False
         )
 

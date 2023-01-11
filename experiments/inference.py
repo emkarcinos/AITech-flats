@@ -56,7 +56,6 @@ def predict_image(
     Predict the class of image. Returns class index with top confidence.
     """
 
-    classifier.to(device)
     classifier.eval()
     
     # Apply the same transformations as we did for the training images

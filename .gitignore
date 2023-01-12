@@ -490,3 +490,5 @@ MigrationBackup/
 
 .idea
 ImageScrapper/ImageScrapper/Logs/
+
+experiments/models/

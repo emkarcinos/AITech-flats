@@ -1,4 +1,5 @@
 import argparse
+from typing import Union
 
 import cv2 as cv
 import numpy as np
@@ -6,6 +7,7 @@ import torch
 from torch import nn
 from torch.utils.data import DataLoader
 from torchvision.transforms import transforms
+import torch.nn.functional as nnf
 
 
 def infer(data, network, loss_fn, device_type):
@@ -22,7 +24,7 @@ def evaluate(
         test_data: DataLoader,
         loss_fn,
         device_type: str
-) -> [np.ndarray, np.ndarray, list[float]]:
+) -> Union[np.ndarray, np.ndarray, list[float]]:
     """
     Test a given model and return true, predicted values and loss
     """
@@ -42,6 +44,47 @@ def evaluate(
             )
             losses.append(loss.item())
     return trues, preds, losses
+
+
+def predict_image(
+    classifier: nn.Module,
+    classes: list[str],
+    device: str,
+    image
+) -> int:
+    """
+    Predict the class of image. Returns class index with top confidence.
+    """
+
+    classifier.eval()
+    
+    # Apply the same transformations as we did for the training images
+    transformation = transforms.Compose([
+        transforms.Resize(256),
+        transforms.CenterCrop(224),
+        transforms.ToTensor(),
+        transforms.Normalize(mean=[0.5, 0.5, 0.5], std=[0.5, 0.5, 0.5])
+    ])
+
+    image_tensor = transformation(image).to(device)
+    image_tensor = image_tensor.unsqueeze_(0)
+
+    output = classifier(image_tensor)
+
+    prob = nnf.softmax(output, dim=1)
+    prob_list = prob.numpy(force=True)[0].tolist()
+    
+    results = zip(classes, prob_list)
+    results = list(results)
+    results.sort(key=lambda tup: tup[1], reverse=True)
+
+    print(f"\nTop 3 classification results:")
+    for i in range(3):
+        print(f"Class: {results[i][0]}: Confidence: {int(100*results[i][1])}%")
+    
+    index = output.cpu().data.numpy().argmax()
+
+    return index
 
 
 if __name__ == '__main__':
@@ -72,5 +115,5 @@ if __name__ == '__main__':
         '8': 'Vintage',
     }
     print(labels[str(
-        torch.nn.functional.softmax(predicted, dim=1).cpu().data.numpy().argmax(axis=1)[0]
+        nnf.softmax(predicted, dim=1).cpu().data.numpy().argmax(axis=1)[0]
     )])
